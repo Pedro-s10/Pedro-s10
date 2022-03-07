@@ -2,7 +2,7 @@
 <h3 align="center">A Learning Developer... 📚💻</h3>
 
 
-- 🔭 I’m currently working on **database**
+- 🔭 I’m currently working on **Database**
 
 - 🌱 I’m currently learning **Javascript, TypeScript, HTML5, CSS3, React, MongoDB**
 
