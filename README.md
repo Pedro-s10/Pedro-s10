@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Pedro Paulo</h1>
+<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pedro Paulo</h1>
 <h3 align="center">A Learning Developer... 📚💻</h3>
 
 <img align="right" height="590em"
-     src="https://raw.githubusercontent.com/gist/Pedro-s10/4692ac56fa7ae91811b5ce4db0ca4f62/raw/4b867da388e3db303efbffd515e39b154e3b0a9c/githubcard1.svg"/>
+     src="https://raw.githubusercontent.com/gist/Pedro-s10/7ef1b83bf2ff5cfe74fb691398dfac10/raw/3ad154274dfd18c116e72c5f6cca23510157fc71/githubcard2.svg"/>
 
 - 🔭 I’m currently working on **Database**
 
