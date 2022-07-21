@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Database**
 
-- 🌱 I’m currently learning **Javascript, TypeScript, HTML5, CSS3, React, MongoDB**
+- 🌱 I’m currently learning **Javascript, TypeScript, HTML5, CSS3, React, Angular, MongoDB**
 
 - 👯 I’m looking to collaborate on **World Changes**
 
