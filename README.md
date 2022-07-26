@@ -2,8 +2,6 @@
 <h1 align="center">Hi, I'm Pedro Paulo</h1>
 <h3 align="center">A Learning Developer... 📚💻</h3>
 
-<img align="right" 
-     src="https://raw.githubusercontent.com/gist/Pedro-s10/7ef1b83bf2ff5cfe74fb691398dfac10/raw/3ad154274dfd18c116e72c5f6cca23510157fc71/githubcard2.svg"/>
 
 - 🔭 I’m currently working on **Database**
 
