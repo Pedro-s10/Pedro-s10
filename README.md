@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **World Changes**
 
-- ⚡ Fun fact **"Gosto de pinha"**
+- ⚡ Fun fact **""**
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
